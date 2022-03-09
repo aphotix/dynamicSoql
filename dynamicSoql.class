@@ -1,0 +1,4 @@
+/**
+  * Created By David Tompkins March 8, 2022
+  * Used to build and execute dynamic soql queries and other helpful Aura/LWC Utilities for the salesforce platform
+  */
